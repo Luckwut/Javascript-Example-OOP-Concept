@@ -1,0 +1,1 @@
+Repository untuk [Blog](https://roihanfajareno.blogspot.com/2024/04/pemrogramman-berbasis-object-di_29.html) tentang Object Oriented Programming di Javascript (dan Typescript).
